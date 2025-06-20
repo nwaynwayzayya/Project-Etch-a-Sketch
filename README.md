@@ -13,7 +13,11 @@ A simple web-based Etch-a-Sketch drawing app inspired by [The Odin Project](http
 - Clear button: reset the whole grid.
 - Resize the grid to any size up to 100x100.
 
-## 🚀 How to Use
+## 🚀 Live Demo
+
+👉 [You can view it here!](https://nwaynwayzayya.github.io/Project-Etch-a-Sketch/)
+
+## 🔧 How to Use
 
 1. **Pick a grid size**  
    Enter a number (1–100) and click **Resize Grid**.
